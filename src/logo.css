@@ -1,0 +1,17 @@
+.logo-mark {
+  width: 54px;
+  height: 54px;
+  display: block;
+  padding: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 8px #17344d55);
+}
+
+.logo.compact .logo-mark {
+  width: 46px;
+  height: 46px;
+  padding: 0;
+}
