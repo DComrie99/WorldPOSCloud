@@ -1,0 +1,9 @@
+.vercel
+.env*
+!.env.example
+node_modules/
+dist/
+*.tsbuildinfo
+supabase/.temp/
+
+.env*
